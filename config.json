@@ -1,0 +1,9 @@
+{
+  "version": "2.0.1",
+  "update_link": "설치기 파일 링크",
+  "mc_version": "1.20.1",
+  "modpack_link": "다운로드 링크",
+  "emw_notice": "여기다가\n업데이트 내용을\n적어주세요!",
+  "forge_version": "47.3.11",
+  "forge_link": "https://maven.minecraftforge.net/net/minecraftforge/forge/"
+}
