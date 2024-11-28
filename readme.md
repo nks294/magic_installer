@@ -1,6 +1,8 @@
 # Magic Installer
 > 취미로 운영중인 서버를 위해 제작한 모드팩 간편 설치기입니다.
 
+![magic-screenshot-1](https://github.com/user-attachments/assets/9e36ff8c-3588-467b-8272-21bbdc6aaa1f)
+
 ## Reference
 adwonghk 님의 소스 **[ (Repository Link) ](https://github.com/adwonghk/minecraft-custom-modpack-installer)** 를 기반으로 제작하였습니다.  
 
@@ -52,3 +54,9 @@ cd magic_installer
 ### Authors
 - Adrian Wong - Initial work - [adwonghk](https://github.com/adwonghk)
 - Jo Hee Sung - Modifications and edits - [nks294](https://github.com/nks294)
+
+## ScreenShots
+![magic-screenshot-2](https://github.com/user-attachments/assets/8b8a1ebc-8870-4089-a249-e8322d1a1f4f)  
+![magic-screenshot-3](https://github.com/user-attachments/assets/2a12c470-c28f-4ba7-8930-69d45853584c)  
+![magic-screenshot-4](https://github.com/user-attachments/assets/35a3a5ef-7bd7-4866-b52a-560110e7611b)  
+![magic-screenshot-5](https://github.com/user-attachments/assets/a461c627-b336-4258-ba81-8af022e94381)  
